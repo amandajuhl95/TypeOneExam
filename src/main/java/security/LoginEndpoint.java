@@ -55,6 +55,7 @@ public class LoginEndpoint {
         throw (AuthenticationException) ex;
       }
       Logger.getLogger(GenericExceptionMapper.class.getName()).log(Level.SEVERE, null, ex);
+      
       throw new AuthenticationException(ex.getMessage());
     }
     
