@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/amandajuhl95/CA3.svg?branch=master)](https://travis-ci.org/amandajuhl95/CA3)
+[![Build Status](https://travis-ci.org/amandajuhl95/TypeOneExam.svg?branch=master)](https://travis-ci.org/amandajuhl95/TypeOneExam)
 
 # How to use the startcode
 
